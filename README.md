@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Nahuel Rodriguez
-- 👀 I’m interested in WEB and Graphic Design.
-- 🌱 I’m currently learning Programation in a university and UX UI Design in a academy.
+- 👀 I’m interested in interfaces design and software developer.
+- 🌱 I’m currently learning Programation in an university and UX UI Design in an academy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 (https://www.linkedin.com/in/lucasnrodriguez/)
 
