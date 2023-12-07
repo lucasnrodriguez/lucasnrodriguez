@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="styles.css" />
+  <style>
+    #body {
+  background-color: #f4f4f4;
+  color: #FF4444;
+}
+  </style>
 </head>
 <body id="body">
   <div>
