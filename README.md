@@ -2,13 +2,13 @@
 <html>
 <head>
   <style>
-    #body {
-  background-color: #f4f4f4;
-  color: #FF4444;
-}
+    .body {
+      background-color: #f4f4f4;
+      color: #FF4444;
+    }
   </style>
 </head>
-<body id="body">
+<body class="body">
   <div>
     <h1>Hi! I'm <b>Lucas</b> </h1>
   </div>
