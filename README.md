@@ -1,8 +1,20 @@
-- 👋 Hi, I’m Lucas Nahuel Rodriguez
-- 👀 I’m interested in interfaces design and software developer.
-- 🌱 I’m currently learning Programation in an university and UX UI Design in an academy.
-- 💞️ I’m looking to collaborate on ...
-- 📫 (https://www.linkedin.com/in/lucasnrodriguez/)
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    
+  </style>
+</head>
+<body>
+  <div>
+    <h1>Hi! I'm **Lucas**</h1>
+  </div>
+</body>
+  
+
+</html>
+
+
 
 <!---
 lucasnrodriguez/lucasnrodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
