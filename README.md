@@ -1,18 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .body {
-      background-color: #f4f4f4;
-      color: #FF4444;
-    }
-  </style>
-</head>
-<body class="body">
-  <div>
+
+  <section background-color: #FF4444>
     <h1>Hi! I'm <b>Lucas</b> </h1>
-  </div>
-</body>
+  </section>
   
 
 </html>
