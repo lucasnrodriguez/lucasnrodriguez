@@ -52,6 +52,45 @@
   </a> 
 </section>
 
+<br>
+
+<section>
+  <h1>More about me</h1>
+
+  <br>
+  
+  <h2>Education</h2>
+  <ul>
+    <li>
+      <h4>E.E.S.T. N°2 - Merlo | Escuela de Educación Secundaria Técnica N°2 "República de Venezuela"</h4>
+      <p>Title: <b>Técnico en Maestro Mayor de Obras</b></p>
+    </li>
+    <li>
+      <h4>UNAHUR | Universidad Nacional de Hurlingham</h4>
+      <p>Training in progress: <b>Técnico Universitario en Programación</b> - Career: <b>Licenciatura en Informática</b></p>
+    </li>
+    <li>
+      <h4>NUCBA</h4>
+      <p>Training in progress: <b>UX UI Design</b></p>
+    </li>
+  </ul>
+
+  <br>
+  
+  <h2>Experience</h2>
+  <ul>
+    <li>
+      <h4>EKIP | Deportes & Servicios</h4>
+    </li>
+    <li>
+      <h4>Graphic Designer (Freelance)</h4>
+    </li>
+    <li>
+      <h4>Tattooer</h4>
+    </li>
+  </ul>
+</section>
+
 
 
 
