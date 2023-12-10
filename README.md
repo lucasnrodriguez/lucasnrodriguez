@@ -53,7 +53,10 @@
 </section>
 
 <br>
-<hr>
+
+<br>
+
+<br>
 
 <section>
   <h1>More about me</h1>
