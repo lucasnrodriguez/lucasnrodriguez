@@ -38,7 +38,9 @@
 
 <section>
   <h2>Contact</h2>
-  <a href="https://www.linkedin.com/in/lucasnrodriguez/" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="50px"></a> 
+  <a href="https://www.linkedin.com/in/lucasnrodriguez/" target="blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="50px">
+  </a> 
 </section>
 
 
