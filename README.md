@@ -1,8 +1,8 @@
 
 <section>
   <h1>Welcome! </h1>
-  <img align="right" src="https://github.com/lucasnrodriguez/lucasnrodriguez/blob/main/luffy.gif" height="175px">
-    
+  <img align="right" src="https://github.com/lucasnrodriguez/lucasnrodriguez/blob/main/luffy.gif" height="150px">
+
   <p>I'm 22 years old and I perform in the field of interfaces design and web development.</p>
   <p>I characterize myself as being analytical, creative, sincere and tenacious. I like to plan, be dedicated and self-improve. I also greatly value working as a team.</p>
   <p>I am looking for opportunities that boost my studies and professional career.</p>
