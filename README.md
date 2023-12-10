@@ -6,6 +6,8 @@
   <p>I am looking for opportunities that boost my studies and professional career.</p>
 </section>
 
+<br>
+
 <section>
   <h2>Technologies / Skills</h2>
   <div>
@@ -17,6 +19,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="75px" alt="Illustrator" title="Illustrator">
   </div>
 </section>
+
+<br>
 
 <section>
   <h2>Why should you work with me?</h2>
@@ -36,9 +40,11 @@
   </ul>
 </section>
 
+<br>
+
 <section>
   <h2>Contact</h2>
-  <a href="https://www.linkedin.com/in/lucasnrodriguez/" target="blank">
+  <a href="https://www.linkedin.com/in/lucasnrodriguez/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="50px">
   </a> 
 </section>
