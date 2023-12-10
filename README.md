@@ -48,7 +48,7 @@
 <section>
   <h2>Contact</h2>
   <a href="https://www.linkedin.com/in/lucasnrodriguez/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="50px" alt="Linkedin" title="Go to my linkedin">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="75px" alt="Linkedin" title="Go to my linkedin">
   </a> 
 </section>
 
