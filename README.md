@@ -18,6 +18,29 @@
   </div>
 </section>
 
+<section>
+  <h2>Why should you work with me?</h2>
+  <ul>
+    <li>
+      <h4>Results</h4>
+      <p>I am dedicated, I commit 100% to the work and I adapt to learn what is necessary to guarantee a good result.</p>
+    </li>
+    <li>
+      <h4>Team work</h4>
+      <p>I'm responsible, sincere, attentive and I really value receiving feedback. Always working positively.</p>
+    </li>
+    <li>
+      <h4>Flexibility and Adaptability</h4>
+      <p>I adapt to different jobs and ways of working.</p>
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="50px" href="https://www.linkedin.com/in/lucasnrodriguez/" target="blank">
+</section>
+
 
 
 
