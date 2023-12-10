@@ -54,7 +54,6 @@
 
 <br>
 <hr>
-<br>
 
 <section>
   <h1>More about me</h1>
