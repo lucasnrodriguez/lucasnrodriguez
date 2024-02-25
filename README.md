@@ -88,19 +88,21 @@
   <h2>Experience</h2>
   <ul>
     <li>
-      <p>2019-2020 | 2022-2023</p>
       <h4>Employee</h4>
       <p>EKIP | Deportes y Servicios</p>
+      <p>2019-2020 | 2022-2023</p>
     </li>
-    <li>
-      <p>2023</p>
+    <br>
+    <li>      
       <h4>Graphic Designer</h4>
       <p>Informal</p>
-    </li>
-    <li>
       <p>2023</p>
+    </li>
+    <br>
+    <li>
       <h4>Tattooer</h4>
       <p>Informal</p>
+      <p>2023</p>
     </li>
   </ul>
 </section>
