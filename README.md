@@ -67,19 +67,19 @@
   <ul>
     <li>
       <h4>Technic Master Builder</h4>
-      <p>2013-2019 | Escuela de Educación Secundaria Técnica N°2 - Merlo</p>
+      <p>2013 - 2019 | Escuela de Educación Secundaria Técnica N°2 - Merlo</p>
     </li>
     <li>
       <h4>University Technician Programmer</h4>
-      <p>2023-Present | Universidad Nacional de Hurlingham</p>
+      <p>2023 - Present | Universidad Nacional de Hurlingham</p>
     </li>
     <li>
       <h4>UX UI Designer</h4>
-      <p>2023-Present | NUCBA</p>
+      <p>2023 - Present | NUCBA</p>
     </li>
     <li>
       <h4>Full-Stack Node JS Developer</h4>
-      <p>2024-Present | CODO A CODO</p>
+      <p>2024 - Present | Codo a Codo 4.0</p>
     </li>
   </ul>
 
@@ -89,7 +89,7 @@
   <ul>
     <li>
       <h4>Employee</h4>
-      <p>2019-2023 | EKIP Deportes y Servicios</p>
+      <p>2019 - 2023 | EKIP Deportes y Servicios</p>
     </li>
     <li>      
       <h4>Graphic Designer</h4>
