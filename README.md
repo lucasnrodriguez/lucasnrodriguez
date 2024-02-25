@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/lucasnrodriguez/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="75px" alt="Linkedin" title="Go to my linkedin profile">
   </a> 
-  <a href="https://www.linkedin.com/in/lucasnrodriguez/" target="_blank">
+  <a href="https://www.behance.net/lucasnahuelrodriguez" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" height="75px" alt="Behance" title="Go to my behance profile">
   </a> 
 </section>
