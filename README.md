@@ -66,20 +66,24 @@
   <h2>Education</h2>
   <ul>
     <li>
-      <h4>Escuela de Educación Secundaria Técnica N°2 - Merlo</h4>
-      <p>Title: <b>Técnico en Maestro Mayor de Obras</b></p>
+      <h4>Technic Master Builder</h4>
+      <p>Escuela de Educación Secundaria Técnica N°2 - Merlo</p>
+      <p>2013-2019 | Finished</p>
     </li>
     <li>
-      <h4>Universidad Nacional de Hurlingham</h4>
-      <p>Training in progress: <b>Técnico Universitario en Programación</b>
+      <h4>University Technician Programmer</h4>
+      <p>Universidad Nacional de Hurlingham</p>
+      <p>2023 | In progress</p>
     </li>
     <li>
-      <h4>NUCBA</h4>
-      <p>Training in progress: <b>UX UI Design</b></p>
+      <h4>UX UI Designer</h4>
+      <p>NUCBA</p>
+      <p>2023 | In progress</p>
     </li>
     <li>
-      <h4>CODO A CODO</h4>
-      <p>Training in progress: <b>Full-Stack Node JS Developer</b></p>
+      <h4>Full-Stack Node JS Developer</h4>
+      <p>CODO A CODO</p>
+      <p>2024 | In progress</p>
     </li>
   </ul>
 
