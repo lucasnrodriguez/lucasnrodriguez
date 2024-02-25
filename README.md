@@ -67,7 +67,7 @@
   <ul>
     <li>
       <h4>Technic Master Builder</h4>
-      <p>2013-2019 | Finished | Escuela de Educación Secundaria Técnica N°2 - Merlo</p>
+      <p>2013-2019 | Escuela de Educación Secundaria Técnica N°2 - Merlo</p>
     </li>
     <li>
       <h4>University Technician Programmer</h4>
@@ -89,7 +89,7 @@
   <ul>
     <li>
       <h4>Employee</h4>
-      <p>2019-2020 ~ 2022-2023 | EKIP Deportes y Servicios</p>
+      <p>2019-2023 | EKIP Deportes y Servicios</p>
     </li>
     <li>      
       <h4>Graphic Designer</h4>
