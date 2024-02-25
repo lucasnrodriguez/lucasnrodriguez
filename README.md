@@ -66,16 +66,20 @@
   <h2>Education</h2>
   <ul>
     <li>
-      <h4>E.E.S.T. N°2 - Merlo | Escuela de Educación Secundaria Técnica N°2 "República de Venezuela"</h4>
+      <h4>Escuela de Educación Secundaria Técnica N°2 - Merlo</h4>
       <p>Title: <b>Técnico en Maestro Mayor de Obras</b></p>
     </li>
     <li>
-      <h4>UNAHUR | Universidad Nacional de Hurlingham</h4>
-      <p>Training in progress: <b>Técnico Universitario en Programación</b> - Career: <b>Licenciatura en Informática</b></p>
+      <h4>Universidad Nacional de Hurlingham</h4>
+      <p>Training in progress: <b>Técnico Universitario en Programación</b>
     </li>
     <li>
       <h4>NUCBA</h4>
       <p>Training in progress: <b>UX UI Design</b></p>
+    </li>
+    <li>
+      <h4>CODO A CODO</h4>
+      <p>Training in progress: <b>Full-Stack Node JS Developer</b></p>
     </li>
   </ul>
 
@@ -84,13 +88,19 @@
   <h2>Experience</h2>
   <ul>
     <li>
-      <h4>EKIP | Deportes & Servicios</h4>
+      <p>2019-2020 | 2022-2023</p>
+      <h4>Employee</h4>
+      <p>EKIP | Deportes y Servicios</p>
     </li>
     <li>
-      <h4>Graphic Designer (Freelance)</h4>
+      <p>2023</p>
+      <h4>Graphic Designer</h4>
+      <p>Informal</p>
     </li>
     <li>
+      <p>2023</p>
       <h4>Tattooer</h4>
+      <p>Informal</p>
     </li>
   </ul>
 </section>
