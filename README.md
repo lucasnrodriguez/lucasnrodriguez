@@ -76,7 +76,7 @@
     </li>
     <li>
       <h4>UX UI Designer</h4>
-      <p>2023 - Present | NUCBA</p>
+      <p>2023 - 2024 | NUCBA</p>
     </li>
     <li>
       <h4>Full-Stack Node JS Developer</h4>
@@ -93,11 +93,7 @@
       <p>2019 - 2023 | EKIP Deportes y Servicios</p>
     </li>
     <li>      
-      <h4>Graphic Designer</h4>
-      <p>2023 | Informal</p>
-    </li>
-    <li>
-      <h4>Tattooer</h4>
+      <h4>Digital illustrator and Graphic Designer</h4>
       <p>2023 | Informal</p>
     </li>
   </ul>
