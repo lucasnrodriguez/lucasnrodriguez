@@ -55,36 +55,6 @@
   </a> 
 </section>
 
-<br>
-
-<br>
-
-<section>
-  <h1>More about me</h1>
-  
-  <br>
-  
-  <h2>Education</h2>
-  <ul>
-    <li>
-      <h4>Technic Master Builder</h4>
-      <p>2013 - 2019 | Escuela de Educación Secundaria Técnica N°2 - Merlo</p>
-    </li>
-    <li>
-      <h4>University Technician Programmer</h4>
-      <p>2023 - Present | Universidad Nacional de Hurlingham</p>
-    </li>
-    <li>
-      <h4>UX UI Designer</h4>
-      <p>2023 - 2024 | NUCBA</p>
-    </li>
-    <li>
-      <h4>Full-Stack Node JS Developer</h4>
-      <p>2024 - Present | Codo a Codo 4.0</p>
-    </li>
-  </ul>
-
-
 
 
 <!---
