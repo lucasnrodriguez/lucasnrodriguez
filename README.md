@@ -3,7 +3,7 @@
   <h1>Welcome! </h1>
   <img align="right" src="https://github.com/lucasnrodriguez/lucasnrodriguez/blob/main/luffy.gif" height="135px">
 
-  <p>I'm 22 years old and I work in UX UI design and Full-Stack development, with the focus on becoming a good UX Engineer.</p>
+  <p>Hi! I'm 22 years old and I work in UX UI design and Full-Stack development, with the focus on becoming a good UX Engineer.</p>
   <p>I'm passionate about all areas where improvement, refinement and exploitation of creativity is required to find effective solutions, generating visual harmony and innovation.</p> 
   <p> I'm looking for opportunities where I can apply my knowledge and boost my professional career. Always eager to grow, learn and use new technologies.</p>
 
