@@ -3,9 +3,9 @@
   <h1>Welcome! </h1>
   <img align="right" src="https://github.com/lucasnrodriguez/lucasnrodriguez/blob/main/luffy.gif" height="135px">
 
-  <p>I'm 22 years old and I perform in the field of interfaces design and web development.</p>
-  <p>I characterize myself as being analytical, creative, sincere and tenacious. I like to plan, be dedicated and self-improve. I also greatly value working as a team.</p>
-  <p>I am looking for opportunities that boost my studies and professional career.</p>
+  <p>I'm 22 years old and I work in UX UI design and Full-Stack development, with the focus on becoming a good UX Engineer. I'm passionate about all areas where improvement, refinement and exploitation of creativity is required to find effective solutions, generating visual harmony and innovation. 
+I'm looking for opportunities where I can apply my knowledge and boost my professional career. Always eager to grow, learn and use new technologies.</p>
+
   
 </section>
 
