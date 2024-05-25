@@ -84,21 +84,6 @@
     </li>
   </ul>
 
-  <br>
-  
-  <h2>Experience</h2>
-  <ul>
-    <li>
-      <h4>Employee</h4>
-      <p>2019 - 2023 | EKIP Deportes y Servicios</p>
-    </li>
-    <li>      
-      <h4>Digital illustrator and Graphic Designer</h4>
-      <p>2023 | Informal</p>
-    </li>
-  </ul>
-</section>
-
 
 
 
